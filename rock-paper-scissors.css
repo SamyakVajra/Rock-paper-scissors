@@ -1,0 +1,38 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  background-color: black;
+}
+.header{
+  font-size: 30px;
+  font-weight: bold;
+}
+.img{
+  width: 50px;
+  border-radius: px;
+}
+.buttonImage{
+  background-color: transparent;
+  width: 120px;
+  height: 120px;
+  border: 3px solid white;
+  border-radius: 60px;
+  margin-right: 8px;
+  cursor: pointer;
+}
+.result{
+  font-size: 25px;
+  font-weight: bold;
+  margin-top:40px;
+}
+.score{
+  margin-top: 50px;
+}
+.resetScore,
+.auto-play-button{
+  padding: 10px 10px;
+  border: none;
+  font-size: 15px;
+  cursor: pointer;
+}
+
